@@ -10,4 +10,4 @@ You'll find the written report on my data analysis process in the cyclistic-case
 
 My case study visuals: https://public.tableau.com/app/profile/vincent.wainman/viz/CaseStudy-Cyclistic/CyclisticCaseStudyVisuals
 
-My presentation to (fictional) executives: https://youtu.be/9Rr4QwJb5Lk
+My presentation to (fictional) stakeholders: https://youtu.be/9Rr4QwJb5Lk
