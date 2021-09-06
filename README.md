@@ -7,3 +7,6 @@ The executive team is on the lookout for ways to drive growth and is considering
 As a junior data analyst on Cyclistic's marketing analytics team, I've been tasked with presenting to executives my findings and recommendations once I've thoroughly explored, processed and analyzed any relevant data.
 
 You'll find the written report on my data analysis process in the cyclistic-case-study.ipynb file above. 
+
+The link to my tableau visuals: https://public.tableau.com/app/profile/vincent.wainman/viz/CaseStudy-Cyclistic/CyclisticCaseStudyVisuals
+The link to my presentation to (fictional) executives: https://youtu.be/9Rr4QwJb5Lk
